@@ -2,6 +2,8 @@
 
 ### archived-kitti-dataset-road-segmentation
 
+![Short Demo Clip](images/demo.gif)
+
 Was hacking around with the KITTI dataset to create an encoder-decoder CNN for road segementation.
 
 ### CAUTION
